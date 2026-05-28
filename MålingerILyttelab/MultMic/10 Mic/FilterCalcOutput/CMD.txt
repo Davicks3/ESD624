@@ -1,0 +1,3 @@
+baseline: 95.0684
+DONE
+Program took 18.722 seconds
